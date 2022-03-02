@@ -1,5 +1,5 @@
 Hello 👋
-My name is Francisco Fernandez, I'm from Montevideo Uruguay.
+My name is Francisco Fernandez, I'm from Montevideo, Uruguay.
 
 I'm currently working as a Full-Stack Developer. My skills tech include Javascript, React, Redux, NodeJS, Express, PostgreSQL, Sequelize and others. I also have experience programming in C++ and have studied algorithm design.
 
